@@ -3,7 +3,7 @@
 var https = require('https');
 
 var options = {
-    host: 'tream-large-file.herokuapp.com',
+    host: 'stream-large-file.herokuapp.com',
     path: '/give-me-stuff-now'
 };
 
